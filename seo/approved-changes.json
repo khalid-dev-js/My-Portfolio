@@ -1,0 +1,29 @@
+{
+  "changes": [
+    {
+      "draft_id": 35,
+      "approved_at": "2026-10-27T16:18:12.035597+00:00",
+      "agent_id": "optimizer",
+      "action_type": "seo_fix",
+      "title": "Title tag: Khalid - Frontend Developer Portfolio",
+      "payload": {
+        "recommendation": "Replace title tag as proposed in chat.",
+        "reason": "Suggested in AI Team chat \u2014 approve to record (apply/publish on hold).",
+        "expected_impact": "Pending review",
+        "risk": "low",
+        "scope": "Website",
+        "source": "team_chat",
+        "preview": [
+          {
+            "label": "Title tag",
+            "before": "Document",
+            "after": "Khalid - Frontend Developer Portfolio"
+          }
+        ],
+        "body": "Title tag: Document \u2192 Khalid - Frontend Developer Portfolio",
+        "publish_held": true
+      }
+    }
+  ],
+  "updated_at": "2026-10-27T16:18:14.639692+00:00"
+}
